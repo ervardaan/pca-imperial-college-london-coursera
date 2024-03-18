@@ -1,0 +1,5 @@
+# mean
+
+# variance 
+
+# linear transformation
