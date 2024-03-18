@@ -15,3 +15,8 @@ bias vector concept
 
 changes in expected value when-
 - we shift all databpoints by some fixed constant 
+- we multiply all datapoints by some fixed constant(scaling factor)
+
+changes in variance when-
+- we shift all datapoints by some fixed constant
+- we multiply all datapoints by some fixed constant
