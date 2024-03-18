@@ -12,3 +12,6 @@ covariance,covarance matrix and pairwise covariances
 # linear transformation
 
 bias vector concept
+
+changes in expected value when-
+- we shift all databpoints by some fixed constant 
